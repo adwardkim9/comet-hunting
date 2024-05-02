@@ -7,3 +7,8 @@ Datasets: NASA Comet Detection Marathon Match
 - test.zip (11.7 GB, 28G expanded)
 - train-sample.zip (140 MB)
 - train-gt.txt
+
+1. ResNet
+   - resized 255*255 input
+2. Custom CNN
+   - 1024*1024 input
